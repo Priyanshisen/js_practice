@@ -1,4 +1,4 @@
-# js_practice
+# js_practice_codes
 # JavaScript Practice (Day 1 – Day 5)
 
 This repository contains my JavaScript practice work from **Day 1 to Day 5**, focusing on building strong fundamentals and gradually moving towards real-world JavaScript concepts.
